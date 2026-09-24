@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "Modern, intelligent expense and budget management with financial insights, analytics, multi-wallet, receipt upload, and automated reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
